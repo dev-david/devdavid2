@@ -1,0 +1,129 @@
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+body, html {
+	background-color: #28323c;
+}
+
+div {
+	/*margin: 4px;*/
+}
+
+li {
+	list-style: none;
+}
+	
+.david_container {
+	/*padding: 10px;*/
+	background-color: #28323c;
+	color: #ffffff;
+	/*height: 100%;*/
+}
+
+.aboutme {
+	border: solid 2px white;
+	background-color: #5ef0aa;
+	padding: 10px;
+	height: 170px;
+	width: 140px;
+	margin: 4px;
+
+}
+
+.black {	
+	background-color: #000000;
+	padding: 5px;
+}
+
+.center {
+	text-align: center;
+}
+
+.centerimg {
+	margin-top: 40px;
+}
+
+.contact {
+	border: solid 2px white;
+	background-color: red;
+	padding: 10px;
+	height: 170px;
+	width: 140px;
+	margin: 4px;
+}
+
+.content {
+	border: solid 2px white;
+	background-color: #65b8de;
+	padding: 10px;
+	width: 100%;
+	min-height: 348px;
+	font-size: 1.25em;
+	margin: 4px;
+}
+
+.content_aboutme {
+	border: solid 2px white;
+	/*background-color: #65b8de;*/
+	background-image: url("/images/duckhunt.png");
+	background-size: cover;
+	padding: 10px;
+	width: 100%;
+	min-height: 348px;
+	font-size: 1.25em;
+	margin: 4px;
+}
+
+.content_index {
+	border: solid 2px white;
+	/*background-color: #65b8de;*/
+	background-image: url("/images/pchan.png");
+	background-size: cover;
+	padding: 10px;
+	width: 100%;
+	min-height: 348px;
+	font-size: 1.25em;
+	margin: 4px;
+}
+
+.imgthumb {
+	padding: 3px;
+	border: solid 2px black;
+	margin: 10px;
+	max-width: 200px;
+	max-height: auto;
+}
+
+.leftbar {
+	background-color: white;
+	border: solid 2px gray;
+}
+
+.logo {
+	border: solid 2px white;
+	background-color: #3498db;
+	padding: 10px;
+	height: 170px;
+	width: 270px;
+	margin: 4px;
+}
+
+.projects {
+	border: solid 2px white;
+	background-color: #929292;
+	padding: 10px;
+	height: 170px;
+	width: 270px;
+	margin: 4px;
+
+}
+
+.project_link {
+}
